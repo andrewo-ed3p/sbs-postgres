@@ -1,0 +1,3 @@
+FROM s390x/postgres
+
+EXPOSE 5432
